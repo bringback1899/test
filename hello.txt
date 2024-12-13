@@ -1,6 +1,11 @@
 master
 <<<<<<< HEAD
+<<<<<<< HEAD
 i add feature 1 here
+=======
+master2
+what is this 
+>>>>>>> feature2
 =======
 master2
 what is this 
